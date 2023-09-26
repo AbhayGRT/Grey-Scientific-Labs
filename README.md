@@ -163,6 +163,12 @@ spec:
   targetCPUUtilizationPercentage: 80
 ```
 
+Apply the horizontal pod scaling to your Minikube cluster:
+
+```
+kubectl apply -f hpa.yaml
+```
+
 <h3>8. Access Your Deployed Application</h3>
 Retrieve the external IP address of your Django application service:
 
