@@ -86,7 +86,7 @@ docker push your-docker-hub-username/your-django-blog-image:tag
 Start a Minikube cluster with appropriate resource allocation (CPU and memory):
 
 ```
-minikube start --cpus 2 --memory 4G
+minikube start --driver=docker
 ```
 
 <h3>5. Create Kubernetes Deployment</h3>
