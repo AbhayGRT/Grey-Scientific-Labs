@@ -177,3 +177,5 @@ http://your-instance-ip:8000
 ```
 You have successfully deployed your Django blog application to an online instance using Minikube with Kubernetes on a CIVO/other instance.
 
+Video: https://www.loom.com/share/cdc172f0010f46efa750607b26667c3b?sid=90663510-8769-4dcd-861e-b1640736c63e
+
